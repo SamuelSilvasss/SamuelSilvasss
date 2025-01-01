@@ -36,9 +36,9 @@ Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na 
 
 <h1 align="center"> 📊 Estatísticas:</h1>
 
-<p align="center">
+<p>
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -46,7 +46,7 @@ Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na 
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilvasss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 

@@ -1,6 +1,6 @@
 # 👨‍💻 Samuel Silva
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3232CD&size=35&center=true&vCenter=true&width=1250&lines=Hii👋,+I'm+Henrique🙂;I'm+currently+studying+at+ETEC+Zona+Leste+as+a+Systems+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3232CD&size=35&center=true&vCenter=true&width=1250&lines=Hii👋,+Olá+Henrique🙂;I'm+currently+studying+at+ETEC+Zona+Leste+as+a+Systems+Developer.)](https://git.io/typing-svg)
 
 **`Desenvolvedor Front-End`**
 

@@ -1,7 +1,5 @@
 # 👨‍💻 Samuel Silva
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3232CD&size=35&center=true&vCenter=true&width=1250&lines=Olá👋,+Eusouo+Henrique🙂;I'm+currently+studying+at+ETEC+Zona+Leste+as+a+Systems+Developer.)](https://git.io/typing-svg)
-
 **`Desenvolvedor Front-End`**
 
 Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na Etec AE.Carvalho, com o curso técnico em Desenvolvimento de Sistemas. Tenho interesse em áreas como UX/UI Design e Desenvolvimento Front-End.

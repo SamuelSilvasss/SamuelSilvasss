@@ -5,9 +5,11 @@
 
 Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na Etec AE.Carvalho, com o curso técnico em Desenvolvimento de Sistemas. Tenho interesse em áreas como UX/UI Design e Desenvolvimento Front-End.</p>
 
-<h1> 🔭 Projetos Interdisciplinares: </h1>
+<h2> 🔭 Projetos Interdisciplinares: </h2>
 
-      bsdadas
+• Apresentação de projeto de Sistemas Embarcados na Feira Técnológica da ETEC Zona Leste 2023.
+• Apresentação do Trabalho de Conclusão de Curso na Feira Técnológica da ETEC Zona Leste 2024.
+
 
 💬 Email: silvasantos.samuca@gmail.com
 

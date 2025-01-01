@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3232CD&height=120&section=header"/>
+
 # 👨‍💻 Samuel Silva
 
 **`Desenvolvedor Front-End`**
@@ -30,3 +32,5 @@ Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelSilvasss&layout=compact&show_icons=true&theme=midnight-purple&langs_count=8&card_width=320" />
 </a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3232CD&height=120&section=footer"/>

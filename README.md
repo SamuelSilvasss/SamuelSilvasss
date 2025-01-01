@@ -23,6 +23,13 @@ Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na 
 
 ---
 
+<h1 align="center">Linguagens & Frameworks:</h1>
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,nodejs,firebase,java,php,laravel,python,tailwind" />
+    </a>
+  </p>
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 

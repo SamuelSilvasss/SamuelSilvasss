@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3232CD&height=120&section=header"/>
 
-# 👨‍💻 Samuel Silva
+<p align="center> 👨‍💻 Samuel Silva
 
 **`Desenvolvedor Front-End`**
 

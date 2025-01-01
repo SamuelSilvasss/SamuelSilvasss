@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Front-End`**
 
-<h6> Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na Etec AE.Carvalho, com o curso técnico em Desenvolvimento de Sistemas. Tenho interesse em áreas como UX/UI Design e Desenvolvimento Front-End.</h6>
+<h5> Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na Etec AE.Carvalho, com o curso técnico em Desenvolvimento de Sistemas. Tenho interesse em áreas como UX/UI Design e Desenvolvimento Front-End.</h5>
 
 <h2> 🔭 Projetos Interdisciplinares: </h2>
 

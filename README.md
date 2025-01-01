@@ -41,14 +41,6 @@ Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na 
   <img height=200 align="center" src="![SamuelSilvasss's Stats](https://github-readme-stats.vercel.app/api?username=SamuelSilvasss&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrique151&layout=compact&show_icons=true&theme=midnight-purple&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="![SamuelSilvasss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilvasss&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)" />
 </a>
 
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilvasss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-![SamuelSilvasss's Stats](https://github-readme-stats.vercel.app/api?username=SamuelSilvasss&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
-</p>

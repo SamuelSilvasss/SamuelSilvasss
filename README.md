@@ -11,6 +11,7 @@ Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na 
 <br>• Apresentação do Trabalho de Conclusão de Curso na Feira Técnológica da ETEC Zona Leste 2024.
 <br>
 <br>
+<br>
 💬 Email: silvasantos.samuca@gmail.com
 
 ---

@@ -7,7 +7,7 @@ Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na 
 
 <h2> 🔭 Projetos Interdisciplinares: </h2>
 
-• Apresentação de projeto de Sistemas Embarcados na Feira Técnológica da ETEC Zona Leste 2023.
+• Apresentação de projeto de Sistemas Embarcados na Feira Técnológica da ETEC Zona Leste 2023.<br>
 • Apresentação do Trabalho de Conclusão de Curso na Feira Técnológica da ETEC Zona Leste 2024.
 
 

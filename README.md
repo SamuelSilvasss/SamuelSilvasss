@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👨‍💻 Samuel Silva
 
 **`Desenvolvedora FullStack`**
 

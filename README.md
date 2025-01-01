@@ -7,8 +7,8 @@
 
 <h2> 🔭 Projetos Interdisciplinares: </h2>
 
-• Apresentação de projeto de Sistemas Embarcados na Feira Técnológica da ETEC Zona Leste 2023.<br>
-<br>• Apresentação do Trabalho de Conclusão de Curso na Feira Técnológica da ETEC Zona Leste 2024.
+• Apresentação de projeto de Sistemas Embarcados na Feira Técnológica da ETEC AE.Carvalho 2023.<br>
+<br>• Apresentação do Trabalho de Conclusão de Curso na Feira Técnológica da ETEC AE.Carvalho 2024.
 <br>
 <br>
 <br>

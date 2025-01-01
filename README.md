@@ -35,7 +35,7 @@ Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na 
 <br/>
 
 <p align="center">
-<h1 align="center">📊 Estatísticas:</h1>
+<h1 📊 Estatísticas:</h1>
 
 <br>
  <a href="https://github.com/anuraghazra/github-readme-stats">

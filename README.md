@@ -39,4 +39,9 @@
 </a>
 </p>
 
+<h3 align="center">Conecte-se comigo:</h3>
+<p align="center">
+<a href="https://www.instagram.com/samuel_silvaa__/" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3232CD&height=120&section=footer"/>

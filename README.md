@@ -35,9 +35,7 @@ Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na 
 <br/>
 
 <p align="center">
-### 📊 Estatísticas
-</p>
-
+📊 Estatísticas
 
 <br>
  <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -46,3 +44,5 @@ Me chamo Samuel, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrique151&layout=compact&show_icons=true&theme=midnight-purple&langs_count=8&card_width=320" />
 </a>
+
+</p>
